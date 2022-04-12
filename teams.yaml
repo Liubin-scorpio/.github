@@ -53,6 +53,7 @@ teams:
     members:
       - zccrs
       - LiuLibang
+      - Scorpio Liu
     repositories_permissions:
       maintain:
         - deepin-font-manager
@@ -64,6 +65,7 @@ teams:
       - zccrs
       - zhangkai749
       - HuiHui97520
+      - Scorpio Liu
     repositories_permissions:
       maintain:
         - deepin-manual
